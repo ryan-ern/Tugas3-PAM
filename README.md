@@ -38,11 +38,11 @@ Download apk hiling <a href="https://expo.dev/artifacts/eas/uCQa6KxcKqu36U92s19p
 - Install React dan Expo
 - Masuk Kedalam directory utama dan jalankan
 ```
-npm start
+npm install
 ```
 atau
 ```
-npm start -f
+npm install -f
 ```
 - tunggu hingga proses selesai
 - jika ingin di jalankan dengan android maka gunakan syntax berikut 
