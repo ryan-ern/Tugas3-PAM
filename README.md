@@ -16,7 +16,7 @@ Download apk hiling <a href="https://expo.dev/artifacts/eas/uCQa6KxcKqu36U92s19p
 ```
 /
 ├─ assets/          # Semua data gambar
-├─ src/             # All components
+├─ src/             
 │  └─ Data.js       # File data untuk menyimpan data penerbangan
 │  └─ Detail.js     # File detail untuk menampilkan hasil pencarian
 │  └─ Home.js       # File home untuk menampilkan form pencarian
